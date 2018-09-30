@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MackenzieBerliner-Glasser/Node.js/issues"
   },
-  "homepage": "https://github.com/MackenzieBerliner-Glasser/Node.js#readme"
+  "homepage": "https://github.com/MackenzieBerliner-Glasser/Node.js#readme",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
 }
